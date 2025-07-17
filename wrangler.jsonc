@@ -1,0 +1,8 @@
+{
+	"name": "znw-p101-ztartnow-mikenavales-xyz",
+	// Update to today's date
+	"compatibility_date": "2025-07-17",
+	"assets": {
+		"directory": "./dist"
+	}
+}
