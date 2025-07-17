@@ -1,54 +1,53 @@
-# Starlight Starter Kit: Basics
+# Ztart Now: Free Templates
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+## Table of Contents
 
-```
-npm create astro@latest -- --template starlight
-```
+-   [Description](#description)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+## Description
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Ztart Now: Free Templates is a project dedicated to providing a collection of useful and readily accessible document templates. The primary goal is to offer a centralized resource for various projects, particularly in web development, automation, and artificial intelligence, streamlining workflow by providing pre-designed structures for common documents.
 
-## 🚀 Project Structure
+This project aims to solve the problem of scattered and hard-to-find templates by consolidating them in one easy-to-navigate location. It fulfills the need for quick access to well-organized templates that can be readily adapted for different purposes.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+Target Users:
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+-   Myself - I want ready to use/copy templates that I will need for my work or personal projects.
+-   My kids - In preparation for my kids when they are ready to explore the tech world. This will serve as a resource to learn web development, automation, and artificial intelligence.
+-   Anyone - For those who think the templates fit their needs and that it will be useful for their work or personal projects.
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Key features and functionalities include:
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+-   **Categorized Templates:** Templates are organized into logical categories, making it easy to find what you need.
+-   **Search Functionality:** A search feature allows users to quickly locate specific templates based on keywords.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+A live version of the website is available at [templates.mikenavales.xyz](https://templates.mikenavales.xyz).
 
-## 🧞 Commands
+Ztart Now: Free Templates is part of the broader Ztart Now network, a collection of useful websites. You can find more information about the network at [ztartnow.mikenavales.xyz](https://ztartnow.mikenavales.xyz).
 
-All commands are run from the root of the project, from a terminal:
+## Usage
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+To use Ztart Now: Free Templates, simply navigate to [templates.mikenavales.xyz](https://www.google.com/url?sa=E&source=gmail&q=https://templates.mikenavales.xyz). The templates are organized into categories, which you can find on the left sidebar. To quickly find specific templates, you can utilize the table of contents feature located on the right sidebar. Simply click on a category or template name in the table of contents to jump directly to that section. Browse the available templates within each category and download the ones that suit your needs.
 
-## 👀 Want to learn more?
+## Contributing
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Yes, I am open to contributions from others. Feel free to add issues or start a discussion if you have suggestions or find problems.
+
+If you'd like to contribute directly, please start a discussion or open an issue to discuss your proposed contribution. We can then have a conversation regarding the specifics before you proceed with any code changes.
+
+For more detailed guidelines on contributing, please check the <https://www.google.com/search?q=CONTRIBUTING.md> file.
+
+To report issues or ask questions, please open a new issue on the repository.
+
+## License
+
+This project is released under the MIT License.
+
+## Contact:
+
+[/message Mike](https://www.google.com/search?q=https://mikenavales.xyz/contact)
