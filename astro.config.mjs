@@ -7,26 +7,87 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: "My Docs",
+			title: "Ztart Now",
 			social: [
 				{
 					icon: "github",
 					label: "GitHub",
-					href: "https://github.com/withastro/starlight",
+					href: "https://github.com/mayknxyz/znw-p101-ztartnow-mikenavales-xyz",
 				},
 			],
 			sidebar: [
 				{
-					label: "Guides",
+					label: "Artificial Intelligence",
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: "Example Guide", slug: "guides/example" },
+						{
+							label: "Example Guide",
+							slug: "artificial-intelligence/example",
+						},
 					],
 				},
 				{
-					label: "Reference",
-					autogenerate: { directory: "reference" },
+					label: "Mobile Development",
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{
+							label: "Example Guide",
+							slug: "mobile-development/example",
+						},
+					],
 				},
+				{
+					label: "No-Code Development",
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{
+							label: "Example Guide",
+							slug: "nocode-development/example",
+						},
+					],
+				},
+				{
+					label: "No-Code Automation",
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{
+							label: "Example Guide",
+							slug: "nocode-automation/example",
+						},
+					],
+				},
+				{
+					label: "Web Development",
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{
+							label: "Example Guide",
+							slug: "web-development/example",
+						},
+					],
+				},
+				{
+					label: "Web Development: Astro",
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{
+							label: "Astro Coding Guidelines (For Review)",
+							slug: "web-development-astro/astro-coding-guidelines",
+						},
+						{
+							label: "Tailwind CSS Installation Guide for Astro (For Review)",
+							slug: "web-development-astro/astro-tailwind-css-v4-installation-guide",
+						},
+						{
+							label: "Deploying a Static Astro Project on Cloudflare Workers (For Review)",
+							slug: "web-development-astro/astro-deploy-on-cloudflare-workers",
+						},
+					],
+				},
+				// {
+				// 	label: "Reference",
+				// 	autogenerate: { directory: "reference" },
+				// },
 			],
 		}),
 	],
